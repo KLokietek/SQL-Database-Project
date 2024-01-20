@@ -1,2 +1,4 @@
 # SQL-Database-Project
-School-project
+Simple Database in SQL. (School-project)
+## Author
+> - Kacper Łokietek
